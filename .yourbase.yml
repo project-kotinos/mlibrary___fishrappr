@@ -12,3 +12,4 @@ ci:
 dependencies:
   build:
   - ruby:2.3.0
+  - java:8.202.08
